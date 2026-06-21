@@ -102,7 +102,7 @@ This project helped strengthen my understanding of:
 Devratan
 PGDM (Business Analytics & Marketing)
 Lloyd Business School
-Data Scientist Intern, Celebal Technologies
+Data Scientist, Celebal Technologies
 
 ## 📝 Note
 
